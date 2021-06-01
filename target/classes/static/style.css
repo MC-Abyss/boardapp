@@ -1,0 +1,66 @@
+html
+body {
+    align-items: center;
+    background-color: #f1f5f1;
+    height: 100%;
+}
+
+.alert {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+    max-width: 430px;
+}
+
+.navbar-custom {
+    background-color: #44a03f;
+}
+
+.navbar-custom .nav-link.active {
+    color: #f1f5f1;
+}
+
+.navbar-brand {
+    color: #f1f5f1;
+}
+
+.navbar-text {
+    color: #f1f5f1;
+}
+
+.pageselector{
+    margin: auto;
+    max-width: 430px;
+    text-align: center;
+}
+
+.btn-primary {
+    background-color: #0e720b !important;
+    border-color: #44a03f !important;
+    color: #f1f5f1 !important;
+}
+
+a:link {
+    color: #44a03f;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: hotpink;
+}
+
+.pagination > li {
+    color: #a9b446;
+}
+
